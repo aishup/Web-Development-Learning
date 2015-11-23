@@ -14,13 +14,13 @@ Tips to go through these demos:
 - Check how the program flows by adding console.log, installing required debugging tools in browser.
 - Check the methods used in code which helps you to understand how the goal was achieved.
 
-1. Portfolio-Website-Template
+1.Portfolio-Website-Template
 
 Build using HTML, HTML5, CSS and CSS3 tags.
 
 https://github.com/aishup/01_Portfolio-Website-Template
 
-2. Event-Handling-in-Javascript
+2.Event-Handling-in-Javascript
 
 Build using Javascript Objects, Functions, HTML DOM Manipulation Methods.
 
