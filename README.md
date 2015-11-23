@@ -1,5 +1,7 @@
 # Web-Development-Demos
 
+This is part of a technology session I presented for a 15 freshman graduates who joined my team in 2014.
+
 A collection of useful Demo's using the Web technologies HTML, HTML5 , Javascript, CSS, CSS3 , Jquery , Jquery Plugins, Bootstrap, Angular Js and Node JS.
 
 1.Portfolio-Website-Template
