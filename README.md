@@ -1,9 +1,6 @@
 # Web-Development-Demos
 
-The demo's here are for 
-
-
-Welcome to Web Development Learning - Phase 2 of a Web Developer
+The demo's are a 'Phase 2 of a Web Developer'.
 
 Here we are not going to teaching the Web technologies HTML, HTML5 , Javascript, CSS, CSS3 , Jquery , Jquery Plugins, Bootstrap, Angular Js and Node JS.. Many people would have learnt the basics and advanced concepts of Front End Developement through multiple tutorials.
 
