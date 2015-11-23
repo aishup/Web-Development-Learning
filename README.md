@@ -1,16 +1,6 @@
 # Web-Development-Demos
 
-The demo's are a 'Phase 2 of a Web Developer'.
-
-Here we are not going to teaching the Web technologies HTML, HTML5 , Javascript, CSS, CSS3 , Jquery , Jquery Plugins, Bootstrap, Angular Js and Node JS.. Many people would have learnt the basics and advanced concepts of Front End Developement through multiple tutorials.
-
-This is the next step in seeing demos of the concepts which you have learnt. 
-
-Tips to go through these demos:
-- Analyze the code.
-- Fork and clone the demo's to your local desktop.
-- Check how the program flows by adding console.log, installing required debugging tools in browser.
-- Check the methods used in code which helps you to understand how the goal was achieved.
+A collection of useful Demo's using the Web technologies HTML, HTML5 , Javascript, CSS, CSS3 , Jquery , Jquery Plugins, Bootstrap, Angular Js and Node JS.
 
 1.Portfolio-Website-Template
 
